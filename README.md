@@ -18,5 +18,16 @@ Nasabah (Siswa)
   - Data pribadi (CRUD)
   - Data keuangan (Read)
   - Log out
+
+Kebutuhan Software dan Hardware
+
+Software
+
+  - Microsoft Visual Studio Community
+  - MySQL (XAMPP)
+
+Hardware
+
+  - Laptop/PC
     
 Sebagai penutup, aplikasi Tabungan Siswa hadir tidak hanya sebagai alat bantu menabung, tetapi juga sebagai sarana edukasi finansial bagi siswa. Dengan penggunaan yang mudah dan fitur-fitur yang inovatif, aplikasi ini diharapkan mampu mendorong kebiasaan menabung yang disiplin dan bertanggung jawab di kalangan siswa, serta mendukung kolaborasi antara sekolah dan orang tua dalam mengelola keuangan anak-anak. Mari bersama-sama menciptakan masa depan yang lebih cerah dengan langkah kecil melalui tabungan, karena kebiasaan baik yang dimulai sejak dini akan berdampak besar di masa mendatang.
